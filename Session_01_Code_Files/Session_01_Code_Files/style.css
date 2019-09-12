@@ -1,0 +1,22 @@
+body {
+  background-color: #326eb4;
+  text-align: center;
+
+}
+
+h1{
+  font-family: sans-serif;;
+}
+
+
+ul{
+  list-style: none;
+}
+
+ol{
+  list-style: none;}
+
+  h1{font-size: 50pt; }
+p{
+  font-size: 16pt;
+}
